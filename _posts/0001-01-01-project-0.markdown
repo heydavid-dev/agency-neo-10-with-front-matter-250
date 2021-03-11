@@ -7,7 +7,7 @@ date: Jan 2020
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
-project-date: April 2014
+project-date: '2017-07-30'
 client: Start Bootstrap
 category: Web Development
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo
